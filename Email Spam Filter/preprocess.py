@@ -5,7 +5,7 @@ import string
 from nltk.tokenize import word_tokenize
 from nltk.corpus import stopwords
 
-rootdir = r"/home/rajeshwari/Documents/DATAA/Learn ML/Projects/Spam Filter"
+rootdir = r"/Spam Filter"
 
 def preprocess(data):
 
